@@ -1,4 +1,4 @@
-# DSAJourney-Leetcode
+# DSA-Journey-Leetcode
 
 Welcome to my LeetCode solution repository! 🎉
 
