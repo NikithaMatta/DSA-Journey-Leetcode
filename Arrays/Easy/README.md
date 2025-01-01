@@ -6,8 +6,8 @@ Welcome to the **Easy** problems section under Arrays! This folder contains begi
 
 | #   | Problem Name                       | Solution File                 |
 |-----|------------------------------------|-------------------------------|
-| 1   | 2058-concatenation-of-Array        | [concatenation-of-array.java](concatenation-of-array.java)  |
-| 2   | 217-contains duplicate             | [contains-duplicate.java](contains-duplicate.java) |
+| 1   | 2058-concatenation-of-Array        | [concatenation-of-array.java](2058-concatenation-of-array/concatenation-of-array.java)  |
+| 2   | 217-contains duplicate             | [contains-duplicate.java](217-contains-duplicates/contains-duplicate.java) |
 
 ## Why Easy Problems?
 
