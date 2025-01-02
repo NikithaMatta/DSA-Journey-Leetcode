@@ -10,6 +10,7 @@ Welcome to the **Easy** problems section under Arrays! This folder contains begi
 | 2   | 217-contains-duplicate             | [contains-duplicate.java](217-contains-duplicates/contains-duplicate.java) |
 | 3   | 242-valid-anagram                  | [valid-anagram.java](242-valid-anagram/valid-anagram.java) |
 | 4   | 1-two-sum                          | [two-sum.java](1-two-sum/two-sum.java) |
+| 5   | 14-longest-common-prefix           | [longest-common-prefix.java](14-longest-common-prefix/longest-common-prefix.java) |
 
 ## Why Easy Problems?
 
