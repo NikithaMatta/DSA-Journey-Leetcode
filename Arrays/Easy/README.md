@@ -12,6 +12,8 @@ Welcome to the **Easy** problems section under Arrays! This folder contains begi
 | 4   | 1-two-sum                          | [two-sum.java](1-two-sum/two-sum.java) |
 | 5   | 14-longest-common-prefix           | [longest-common-prefix.java](14-longest-common-prefix/longest-common-prefix.java) |
 | 6   | 27-remove-element                  | [remove-element.java](27-remove-element/remove-element.java) |
+| 7   | 169-majority-element               | [majority-element.java](169-majority-element/majority-element.java) |
+| 8   | 816-design-hashset                 | [design-hashset.java](816-design-hashset/design-hashset.java) |
 
 ## Why Easy Problems?
 
