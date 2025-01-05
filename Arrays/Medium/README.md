@@ -8,6 +8,8 @@ Welcome to the **Medium problems** section under Arrays! This folder contains in
 | #   | Problem Name                       | Solution File                 |
 |-----|------------------------------------|-------------------------------|
 | 1   | 49-group-anagrams                  | [group-anagrams.java](49-group-anagrams/group-anagrams.java) |
+| 2   | 948-sort-an-array                  | [sort-an-array.java](948-sort-an-array/sort-an-array.java) |
+| 3   | 75-sort-colors                     | [sort-colors.java](75-sort-colors/sort-colors.java) |
 
 ## Why Medium Problems?
 
