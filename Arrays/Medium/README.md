@@ -10,6 +10,8 @@ Welcome to the **Medium problems** section under Arrays! This folder contains in
 | 1   | 49-group-anagrams                  | [group-anagrams.java](49-group-anagrams/group-anagrams.java) |
 | 2   | 948-sort-an-array                  | [sort-an-array.java](948-sort-an-array/sort-an-array.java) |
 | 3   | 75-sort-colors                     | [sort-colors.java](75-sort-colors/sort-colors.java) |
+| 4   | 347-top-k-frequent-elements        | [top-k-frequent-elements.java](347-top-k-frequent-elements/top-k-frequent-elements.java) |
+| 5   | 304-range-sum-query-2d-immutable   | [range-sum-query-2d-immutable.java](304-range-sum-query-2d-immutable/range-sum-query-2d-immutable.java) |
 
 ## Why Medium Problems?
 
