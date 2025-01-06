@@ -35,11 +35,11 @@ More topics will be added as I progress, and solutions will be categorized accor
 
 I will be solving LeetCode problems daily and categorizing them by topic and difficulty level. Below is the structure:
 
-Total Count: 12 <br>
+Total Count: 14 <br>
 
 1. **Arrays**
    - Easy: 9
-   - Medium: 3
+   - Medium: 5
    - Hard: 0
 
 Each topic will have problems categorized into Easy, Medium, and Hard levels to track my progress effectively.
