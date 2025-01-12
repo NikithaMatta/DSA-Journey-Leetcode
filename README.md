@@ -39,8 +39,8 @@ Total Count: 14 <br>
 
 1. **Arrays**
    - Easy: 9
-   - Medium: 5
-   - Hard: 0
+   - Medium: 11
+   - Hard: 1
 
 Each topic will have problems categorized into Easy, Medium, and Hard levels to track my progress effectively.
 
