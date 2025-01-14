@@ -12,6 +12,12 @@ Welcome to the **Medium problems** section under Arrays! This folder contains in
 | 3   | 75-sort-colors                     | [sort-colors.java](75-sort-colors/sort-colors.java) |
 | 4   | 347-top-k-frequent-elements        | [top-k-frequent-elements.java](347-top-k-frequent-elements/top-k-frequent-elements.java) |
 | 5   | 304-range-sum-query-2d-immutable   | [range-sum-query-2d-immutable.java](304-range-sum-query-2d-immutable/range-sum-query-2d-immutable.java) |
+| 6   | 238-product-of-array-except-self   | [product-of-array-except-self.java](238-product-of-array-except-self/product-of-array-except-self.java) |
+| 7   | 36-valid-sudoku                    | [valid-sudoku.java](36-valid-sudoku/valid-sudoku.java) |
+| 8   | 128-longest-consecutive-sequence   | [longest-consecutive-sequence.java](128-longest-consecutive-sequence/longest-consecutive-sequence.java) |
+| 9   | 122-best-time-to-buy-and-sell-stock-ii | [best-time-to-buy-and-sell-stock-ii.java](122-best-time-to-buy-and-sell-stock-ii/best-time-to-buy-and-sell-stock-ii.java) |
+| 10  | 229-majority-element-ii                    | [majority-element-ii.java](229-majority-element-ii/majority-element-ii.java) |
+| 11  | 560-subarray-sum-equals-k                    | [subarray-sum-equals-k.java](560-subarray-sum-equals-k/subarray-sum-equals-k.java) |
 
 ## Why Medium Problems?
 
