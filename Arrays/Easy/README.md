@@ -15,7 +15,6 @@ Welcome to the **Easy** problems section under Arrays! This folder contains begi
 | 7   | 169-majority-element               | [majority-element.java](169-majority-element/majority-element.java) |
 | 8   | 816-design-hashset                 | [design-hashset.java](816-design-hashset/design-hashset.java) |
 | 9   | 817-design-hashmap                 | [design-hashmap.java](816-design-hashmap/design-hashmap.java) |
-| 10   | 49-group-anagrams                  | [group-anagrams.java](49-group-anagrams/group-anagrams.java) |
 
 ## Why Easy Problems?
 
