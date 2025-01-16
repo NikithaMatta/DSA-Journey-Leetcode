@@ -10,11 +10,13 @@ class Solution {
                 x2 ^= num;
             }
         }
+        
         if (len2 % 2 != 0) {
             for (int num : nums1) {
                 x1 ^= num;
             }
         }
+        
         return x1 ^ x2;
     }
 }
